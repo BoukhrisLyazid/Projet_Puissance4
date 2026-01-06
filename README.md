@@ -25,13 +25,13 @@ Ce travail nous a permis d’approfondir nos compétences en **développement lo
 
 ## 🚀 Comment utiliser
 
-### 1) Installer SFML
-#### Linux (Ubuntu/Debian)
+1) Installer SFML
+Linux (Ubuntu/Debian)
 ```bash
 sudo apt-get update
 sudo apt-get install libsfml-dev
 
----
+
 
 ### 2) Compiler le projet
 
@@ -40,7 +40,7 @@ sudo apt-get install libsfml-dev
 make clean
 make
 
----
+
 
 ### 3) Exécuter
 ./main
