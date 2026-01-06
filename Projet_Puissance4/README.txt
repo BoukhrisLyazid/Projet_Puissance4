@@ -1,5 +1,5 @@
-                                  - Titre du Projet :  " Puissance 4 "
- 						    	    		-------------------
+- Titre du Projet :  " Puissance 4 "
+ ------------------
 
 - Réalisé par : BOUKHRIS Mohamed Lyazid, AJELLABI Imrane, BELAHSEN Ilyes, BELHAMRA Mohssine
 ---------------
