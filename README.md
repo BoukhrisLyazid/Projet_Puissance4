@@ -25,17 +25,18 @@ Ce travail nous a permis d’approfondir nos compétences en **développement lo
 
 ## 🚀 Comment utiliser
 
+```bash
 1) Installer SFML
 Linux (Ubuntu/Debian)
-```bash
+
 sudo apt-get update
 sudo apt-get install libsfml-dev
 
 
 
-### 2) Compiler le projet
+2) Compiler le projet
 
-#### Dans le dossier du projet :
+Dans le dossier du projet :
 
 make clean
 make
